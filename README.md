@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Nyameka Miningwa
 
 Currently learning: Cybersecurity  
-Aspiring: Cybersecurity analyst / Cloud Engineer 
+Aspiring: Information Security analyst / Network Engineer 
 Passionate about: 
 
 ---
