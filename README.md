@@ -19,8 +19,11 @@ Passionate about: I am passionate about technology, design, and continuously ups
 
 ## 🏅 Certifications
 Microsoft: AZ-900- Microsoft Azure Fundamentals 
+
            MS-900- Microsoft 365 Fundamentals Microsoft
+           
 Cisco Network Academy (Network Security) 
+
 Cousera: Google AI Essentials Specialization
          
 ---
@@ -28,16 +31,18 @@ Cousera: Google AI Essentials Specialization
 ## 🛠️ Featured Projects
 
 BRIDGE THE GAP
+
 Chatbot helping South African students navigate university applications, bursaries, and student readiness, no login, no setup, just ask.
 https://hope-hub-za.lovable.app/
 
 MEDILIFE LITE-
 Medical filling system
+
 Makes patient intake fast, keeps medical records organized, and turns appointment booking into a few simple clicks
 https://medifile-lite.lovable.app/
 
-AURORA
-AI Buisness Operation Assistant
+AURORA- AI Buisness Operation Assistant
+
 A ticket management solution that enhances service delivery, operational efficiency, and strategic decision-making.
 https://auroraassistops.lovable.app
 
