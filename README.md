@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Nyameka Miningwa
 
-Currently learning: Cybersecurity  
+Currently learning: Cybersecurity skills through TryHackMe, AI Powerd applications and Prompt engineering  
 
 Aspiring: Information Security analyst / Network Engineer 
 
