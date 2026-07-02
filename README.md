@@ -1,7 +1,9 @@
 # Hey there! 👋 I'm Nyameka Miningwa
 
 Currently learning: Cybersecurity  
+
 Aspiring: Information Security analyst / Network Engineer 
+
 Passionate about: I am passionate about technology, design, and continuously upscaling myself. I enjoy combining creativity with analytical thinking to develop practical and effective solutions.
 
 ---
@@ -38,10 +40,12 @@ AURORA
 AI Buisness Operation Assistant
 A ticket management solution that enhances service delivery, operational efficiency, and strategic decision-making.
 https://auroraassistops.lovable.app
+
 ---
 
 ## 📫 Contact Me!
 Email: nzminingwa@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/nyameka-miningwa/
 
 ---
