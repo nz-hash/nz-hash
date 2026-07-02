@@ -25,6 +25,10 @@ Microaift: MS-900- Microsoft 365 Fundamentals Microsoft
 Cisco Network Academy (Network Security) 
 
 Cousera: Google AI Essentials Specialization
+
+Cousera: Professional Development
+
+Cousera: Artificial Intelligence (AI) Bootcamp
          
 ---
 
