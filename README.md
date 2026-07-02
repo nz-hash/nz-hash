@@ -2,6 +2,7 @@
 
 Currently learning: Cybersecurity  
 Aspiring: Information Security analyst / Network Engineer 
+
 Passionate about: 
 
 ---
