@@ -20,7 +20,7 @@ Passionate about: I am passionate about technology, design, and continuously ups
 ## 🏅 Certifications
 Microsoft: AZ-900- Microsoft Azure Fundamentals 
 
-Microaift: MS-900- Microsoft 365 Fundamentals Microsoft
+Microsoft: MS-900- Microsoft 365 Fundamentals Microsoft
            
 Cisco Network Academy (Network Security) 
 
