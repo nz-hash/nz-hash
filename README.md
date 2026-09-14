@@ -30,11 +30,11 @@ Cousera: Professional Development
 
 Cousera: Artificial Intelligence (AI) Bootcamp
 
-Cousera: Google Cybersecurity
+Cousera: Google Cybersecurity Professional Certificate
 
 Cousera: Cybersecurity
 
-Cousera: IT Security: Defense against the digital dark art
+Cousera: Cybersecurity Fundamentals Specialization IBM
          
 ---
 
