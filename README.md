@@ -2,7 +2,7 @@
 
 Currently learning: Cybersecurity skills through TryHackMe, AI Powerd applications and Prompt engineering  
 
-Aspiring: Information Security analyst / Network Engineer 
+Cybersecurity & Network Infrastructure Intern 
 
 Passionate about: I am passionate about technology, design, and continuously upscaling myself. I enjoy combining creativity with analytical thinking to develop practical and effective solutions.
 
@@ -12,7 +12,7 @@ Passionate about: I am passionate about technology, design, and continuously ups
 
 - 🎓 Cisco Packet tracer
 - 🎓 Kali Linux
-- 🔭 VirtualBox
+- 🔭 SQL
 - 💡 C#
 
 ---
@@ -29,6 +29,12 @@ Cousera: Google AI Essentials Specialization
 Cousera: Professional Development
 
 Cousera: Artificial Intelligence (AI) Bootcamp
+
+Cousera: Google Cybersecurity
+
+Cousera: Cybersecurity
+
+Cousera: IT Security: Defense against the digital dark art
          
 ---
 
