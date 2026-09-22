@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Nyameka Miningwa
 
-Currently learning: Cybersecurity skills through TryHackMe, AI Powerd applications and Prompt engineering  
+Currently learning: Microsoft SC-900  
 
 Cybersecurity & Network Infrastructure Intern 
 
@@ -35,6 +35,8 @@ Cousera: Google Cybersecurity Professional Certificate
 Cousera: Cybersecurity
 
 Cousera: Cybersecurity Fundamentals Specialization IBM
+
+Cousera: Microsoft Cybersecurity Analyst Professional Certificate
          
 ---
 
